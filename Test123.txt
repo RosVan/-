@@ -1,6 +1,1 @@
-Test
-Test
-Test
-Test
-Test
-Test
+Задание 9.5.3
