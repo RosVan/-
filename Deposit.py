@@ -15,5 +15,5 @@ for key in per_cent:
     deposit.append(round(per_cent[key], 2))
 
 print (deposit)
-print (max(deposit))
-print (min(deposit))
+print ('Max:', (max(deposit)))
+print ('Min:', (min(deposit)))
